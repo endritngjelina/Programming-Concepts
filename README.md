@@ -1,0 +1,1 @@
+Programming Concepts was my first ever programming course! Even though these programms are simple to some degree, I am showing them as a reminder to myself how far I have come and how much more there is in my journey as a learner!
