@@ -1,0 +1,22 @@
+Albania/Tirana
+Kosovo/Prishtina
+Germany/Berlin
+France/Paris
+Belgium/Brussels
+Egypt/Cairo
+China/Beijing
+Bulgaria/Sofia
+The Netherlands/Amsterdam
+Spain/Madrid
+Austria/Vienna
+Italy/Rome
+Portugal/Lisbon
+Greece/Athens
+Serbia/Belgrade
+Switzerland/Bern
+Ireland/Dublin
+Argentina/Buenos Aires
+Japan/Tokyo
+Russia/Moscow
+Turkey/Ankara
+Canada/Ottawa
